@@ -36,7 +36,17 @@ namespace Exemplo.WebApi.Repositorio
 
         public IList<Usuario> Pesquisar()
         {
-            throw new NotImplementedException();
+            IList<Usuario> listUsuario = new List<Usuario>();
+            Grupo grupo = new Grupo("Teste");
+            Usuario usuario = new Usuario("Teste Nome", "Login Teste", grupo);
+
+            Grupo grupo2 = new Grupo("Teste 2");
+            Usuario usuario2 = new Usuario("Teste Nome 2", "Login Teste 2", grupo2);
+
+            listUsuario.Add(usuario);
+            listUsuario.Add(usuario2);
+
+            return listUsuario;
         }
     }
 }
