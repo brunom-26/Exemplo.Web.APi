@@ -1,0 +1,7 @@
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\bin\Debug\Exemplo.WebApi.Modelo.dll
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\bin\Debug\Exemplo.WebApi.Modelo.pdb
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\bin\Debug\Exemplo.WebApi.Infraestrutura.dll
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\bin\Debug\Exemplo.WebApi.Infraestrutura.pdb
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\obj\Debug\Exemplo.WebApi.Modelo.csprojResolveAssemblyReference.cache
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\obj\Debug\Exemplo.WebApi.Modelo.dll
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Modelo\obj\Debug\Exemplo.WebApi.Modelo.pdb
