@@ -1,0 +1,5 @@
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Infraestrutura\bin\Debug\Exemplo.WebApi.Infraestrutura.dll
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Infraestrutura\bin\Debug\Exemplo.WebApi.Infraestrutura.pdb
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Infraestrutura\obj\Debug\Exemplo.WebApi.Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Infraestrutura\obj\Debug\Exemplo.WebApi.Infraestrutura.dll
+C:\Projects\ExemploWebApi\Exemplo.WebApi\Exemplo.WebApi.Infraestrutura\obj\Debug\Exemplo.WebApi.Infraestrutura.pdb
